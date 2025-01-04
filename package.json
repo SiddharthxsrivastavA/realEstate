@@ -1,7 +1,6 @@
 {
   "name": "mern-estate",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -16,10 +15,12 @@
     "bcryptjs": "^2.4.3",
     "cookie-parser": "^1.4.6",
     "dotenv": "^16.4.7",
-    "express": "^4.18.2",
+    "express": "^4.21.2",
     "jsonwebtoken": "^9.0.2",
     "mongodb": "^6.12.0",
-    "mongoose": "^7.5.0",
-    "nodemon": "^3.0.1"
-  }
+    "mongoose": "^7.8.3",
+    "nodemon": "^3.0.1",
+    "xpress": "^2.4.6"
+  },
+  "description": ""
 }
