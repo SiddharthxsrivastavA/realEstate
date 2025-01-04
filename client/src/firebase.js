@@ -5,12 +5,12 @@ import { initializeApp } from "firebase/app";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: import.meta.env.VITE_FIREBASE_API_KEY,
-  authDomain: "reelestate-d3fcc.firebaseapp.com",
-  projectId: "reelestate-d3fcc",
-  storageBucket: "reelestate-d3fcc.firebasestorage.app",
-  messagingSenderId: "813892491923",
-  appId: "1:813892491923:web:2cc0b2421413bbf16b4b66"
+  apiKey: "AIzaSyDDhlYez8UBih6LVXeImyKFJmvo3EpgfwE",
+  authDomain: "reelestate2-1cc1d.firebaseapp.com",
+  projectId: "reelestate2-1cc1d",
+  storageBucket: "reelestate2-1cc1d.firebasestorage.app",
+  messagingSenderId: "790664805838",
+  appId: "1:790664805838:web:81007c7c1c1cdc41b2ff9f"
 };
 
 // Initialize Firebase
