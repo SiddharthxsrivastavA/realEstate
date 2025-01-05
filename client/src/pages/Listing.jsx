@@ -66,6 +66,7 @@ export default function Listing() {
                   style={{
                     background: `url(${url}) center no-repeat`,
                     backgroundSize: 'cover',
+                    
                   }}
                 ></div>
               </SwiperSlide>

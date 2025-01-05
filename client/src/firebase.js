@@ -11,6 +11,7 @@ const firebaseConfig = {
   storageBucket: "reelestate2-1cc1d.firebasestorage.app",
   messagingSenderId: "790664805838",
   appId: "1:790664805838:web:81007c7c1c1cdc41b2ff9f"
+  
 };
 
 // Initialize Firebase
